@@ -1,6 +1,6 @@
 # Particle Swarm Optimization 📊
 
-Welcome to the Particle Swarm Optimization project! This C++ implementation showcases a powerful particle swarm optimizer that can help you solve complex optimization problems.
+Welcome to the Particle Swarm Optimization project! This C++ implementation showcases a particle swarm optimizer that can help you solve complex optimization problems.
 
 ## Features ✔
 
